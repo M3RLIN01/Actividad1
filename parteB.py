@@ -1,0 +1,11 @@
+print("Ejercicio 1 Programación y Redes Virtualizadas")
+nombre = input("Ingrese su Nombre:")
+apellido = input("Ingrese su Apellido:")
+seccion = input("Ingrese el codigo de su Seccion:")
+sede = input("Ingrese el nombre de su Sede:")
+
+print("\nInformacion del Usuario:")
+print(f"nombre: {nombre}")
+print(f"apellido: {apellido}")
+print(f"seccion: {seccion}")
+print(f"sede: {sede}")
